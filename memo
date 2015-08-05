@@ -1,0 +1,13 @@
+まずディレクトリを作る
+タスクランナーの設定　grunt npm
+パッケージマネージャの設定
+
+npm init  で package.json を作る
+
+
+grunt-contrib-watch
+load-grunt-configs
+load-grunt-tasks
+time-grunt
+
+.gitignore

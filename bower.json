@@ -1,0 +1,24 @@
+{
+  "name": "PolymerSample",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sumi-hiro/HandsOnTest",
+  "authors": [
+    "Hiroyuki Suminoue <suminoue.hiro@jp.fujitsu.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.0.8"
+  },
+  "overrides": {
+    "webcomponentsjs": {
+      "main":"webcomponents-lite.js"
+    }
+  }
+}
